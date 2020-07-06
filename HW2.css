@@ -1,0 +1,75 @@
+p.normal 
+{
+font-family: "Arial";
+font-size: medium;
+padding-left: 15px;   
+
+}
+
+p.blue
+{
+text-align: right;
+font-size: normal;
+color: blue;
+margin-top: -15px;
+}
+
+h1 
+{
+font-family: "Times New Roman", Times, serif;
+color: blue;
+font-size: 150%;
+}
+
+body
+{
+width:650px;
+margin: auto;
+background-color: yellow;
+margin-bottom:40px;
+    
+border-style: double;
+border-width: 8px;
+border-color: blue;
+}
+
+h2
+{
+padding-left: 15px;
+font-size: 125%;
+margin-bottom: -15px;
+}
+
+p.quote
+{
+  margin-left: 10px;  
+}
+
+h3
+{
+font-size: 115%;
+padding: 0px;
+margin: 0px;
+}
+
+.container
+{
+background-color: white;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+
+img
+{
+float: left;
+padding: 10px;
+}
+
+footer
+{
+border-top: 4px solid blue;
+text-align: center;
+font-weight: bold;
+font-size: 90%;
+}
